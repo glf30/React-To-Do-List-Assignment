@@ -19,6 +19,6 @@ Feel free to utilize bootstrap/CSS to improve the design of the project, but it 
 
 - Simulate what it's like to "login" to an application by adding a username property. You can achieve this by adding a username property to your tasks and including the ability for a user to "sign in" by entering a username into a form. The user should only see tasks associated with their username.
 
-- Add a priority level to your tasks: LOW, MEDIUM, and HIGH that can be selected using the select and option tags
+- Add a priority level to your tasks: LOW, MEDIUM, and HIGH that can be selected using the select and option tags.  After getting this, try adding a feature to sort by Priority.
 
 - anything else you can think of !!!
